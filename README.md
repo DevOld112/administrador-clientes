@@ -26,6 +26,6 @@ JSON Server es especialmente útil para simular una API en entornos de desarroll
 
 ## Deploy del proyecto: https://64acbdba12112921c2277629--benevolent-genie-1c7554.netlify.app/
 
-Puedes utilizar JSON Server para crear una API ficticia y así poder interactuar con los datos de tus clientes en tu aplicación de Administrador de Clientes con Vue de una manera realista y dinámica, sin necesidad de una API real o conexión a una base de datos.
+
 
 
